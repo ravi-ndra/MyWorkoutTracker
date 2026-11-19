@@ -1,0 +1,21 @@
+{
+  "name": "my-workout-tracker",
+  "version": "1.0.0",
+  "description": "Rohan's Build — Training & Nutrition System",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static HTML'",
+    "lint": "echo 'No linting configured yet'"
+  },
+  "keywords": [
+    "workout",
+    "tracker",
+    "fitness"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
